@@ -199,7 +199,7 @@ body .envelope-wrapper .letter.close {
   z-index: 0;
 }
 body .envelope-wrapper .letter button {
-  width: 30%;
+  width: 35%;
   margin: 0.7rem;
   cursor: pointer;
 }
