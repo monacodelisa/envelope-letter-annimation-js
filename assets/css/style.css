@@ -285,7 +285,7 @@ body .credits p {
 }
 @media (max-width: 499px) {
   body .envelope-wrapper .letter {
-    width: 50vw;
+    width: 60vw;
   }
   body .envelope-wrapper .letter.expanded {
     width: 80vw;
